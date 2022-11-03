@@ -1,0 +1,4 @@
+co/learning/Model/Contact.class
+co/learning/Model/Contact$ContactBuilder.class
+co/learning/Business/ContactService.class
+co/learning/Model/ContactType.class
